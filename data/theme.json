@@ -1,6 +1,6 @@
 {
   "footer": "Copyright &copy; 2022",
-  "dark_mode": true,
+  "dark_mode": false,
   "site_name": "Unruly Chain",
   "site_description": "Distributed Computing and Blockchain Consulting",
   "hero_title": "<strong>Freedom from the tyranny of centralized systems</strong>",

@@ -1,8 +1,8 @@
 {
-  "footer": "Copyright &copy; 2021",
-  "dark_mode": false,
-  "site_name": "Nichlas W. Andersen",
-  "site_description": "Creative technologist",
-  "hero_title": "Simplicity. Aesthetics. Value.",
-  "hero_subtitle": "Hi there, I'm an independent Digital Designer &amp; Art Director focused on digital design for brands that like to have fun."
+  "footer": "Copyright &copy; 2022",
+  "dark_mode": true,
+  "site_name": "Unruly Chain",
+  "site_description": "Distributed Computing and Blockchain Consulting",
+  "hero_title": "<strong>Freedom from the tyranny of centralized systems</strong>",
+  "hero_subtitle": "We are experts in distributed computing infrastructure, smart contracts, and blockchain technologies. We serve small businesses trying to compete in a world with Big Tech."
 }
